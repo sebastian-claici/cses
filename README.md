@@ -2,7 +2,7 @@
 
 Solutions to the [CSES problem set](https://cses.fi/problemset/list/). Most of these will probably be written in C++.
 
-## Introductory Problems
+## Introductory
 
 | Problem | Solution |
 |---------|----------|
@@ -26,3 +26,10 @@ Solutions to the [CSES problem set](https://cses.fi/problemset/list/). Most of t
 |[Digit Queries](https://cses.fi/problemset/task/2431) | [intro/intro18.cpp](intro/intro18.cpp)|
 |[Grid Paths](https://cses.fi/problemset/task/1625) | |
 
+## Sorting
+
+| Problem | Solution |
+|---------|----------|
+|[Distinct Numbers](https://cses.fi/problemset/task/1621)| [sorting/sorting1.cpp](sorting/sorting1.cpp) |
+|[Apartments](https://cses.fi/problemset/task/1084)| [sorting/sorting2.cpp](sorting/sorting2.cpp) |
+|[Ferris Wheel](https://cses.fi/problemset/task/1090)| [sorting/sorting3.cpp](sorting/sorting3.cpp) |
