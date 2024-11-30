@@ -4,23 +4,25 @@ Solutions to the [CSES problem set](https://cses.fi/problemset/list/). Most of t
 
 ## Introductory Problems
 
-- [Weird Algorithm](https://cses.fi/problemset/task/1068): [solved](intro/intro1.cpp)
-- [Missing Number](https://cses.fi/problemset/task/1083): [solved](intro/intro2.cpp)
-- [Repetitions](https://cses.fi/problemset/task/1069): [solved](intro/intro3.cpp)
-- [Increasing Array](https://cses.fi/problemset/task/1094): [solved](intro/intro4.cpp)
-- [Permutations](https://cses.fi/problemset/task/1070): [solved](intro/intro5.cpp)
-- [Number Spiral](https://cses.fi/problemset/task/1071): [solved](intro/intro6.cpp)
-- [Two Knights](https://cses.fi/problemset/task/1072): [solved](intro/intro7.cpp)
-- [Two Sets](https://cses.fi/problemset/task/1092): [solved](intro/intro8.cpp)
-- [Bit Strings](https://cses.fi/problemset/task/1617): [solved](intro/intro9.cpp)
-- [Trailing Zeros](https://cses.fi/problemset/task/1618): [solved](intro/intro10.cpp)
-- [Coin Piles](https://cses.fi/problemset/task/1754): [solved](intro/intro11.cpp)
-- [Palindrome Reorder](https://cses.fi/problemset/task/1755): [solved](intro/intro12.cpp)
-- [Gray Code](https://cses.fi/problemset/task/2205): [solved](intro/intro13.cpp)
-- [Tower of Hanoi](https://cses.fi/problemset/task/2165): [solved](intro/intro14.cpp)
-- [Creating Strings](https://cses.fi/problemset/task/1622): [solved](intro/intro15.cpp)
-- [Apple Division](https://cses.fi/problemset/task/1623): [solved](intro/intro16.cpp)
-- [Chessboard and Queens](https://cses.fi/problemset/task/1624)
-- [Digit Queries](https://cses.fi/problemset/task/2431)
-- [Grid Paths](https://cses.fi/problemset/task/1625)
+| Problem | Solution |
+|---------|----------|
+|[Weird Algorithm](https://cses.fi/problemset/task/1068)| [intro/intro1.cpp](intro/intro1.cpp) |
+|[Missing Number](https://cses.fi/problemset/task/1083)| [intro/intro2.cpp](intro/intro2.cpp) |
+|[Repetitions](https://cses.fi/problemset/task/1069)| [intro/intro3.cpp](intro/intro3.cpp) |
+|[Increasing Array](https://cses.fi/problemset/task/1094)| [intro/intro4.cpp](intro/intro4.cpp) |
+|[Permutations](https://cses.fi/problemset/task/1070)| [intro/intro5.cpp](intro/intro5.cpp) |
+|[Number Spiral](https://cses.fi/problemset/task/1071)| [intro/intro6.cpp](intro/intro6.cpp) |
+|[Two Knights](https://cses.fi/problemset/task/1072)| [intro/intro7.cpp](intro/intro7.cpp) |
+|[Two Sets](https://cses.fi/problemset/task/1092)| [intro/intro8.cpp](intro/intro8.cpp) |
+|[Bit Strings](https://cses.fi/problemset/task/1617)| [intro/intro9.cpp](intro/intro9.cpp) |
+|[Trailing Zeros](https://cses.fi/problemset/task/1618)| [intro/intro10.cpp](intro/intro10.cpp) |
+|[Coin Piles](https://cses.fi/problemset/task/1754)| [intro/intro11.cpp](intro/intro11.cpp) |
+|[Palindrome Reorder](https://cses.fi/problemset/task/1755)| [intro/intro12.cpp](intro/intro12.cpp) |
+|[Gray Code](https://cses.fi/problemset/task/2205)| [intro/intro13.cpp](intro/intro13.cpp) |
+|[Tower of Hanoi](https://cses.fi/problemset/task/2165)| [intro/intro14.cpp](intro/intro14.cpp) |
+|[Creating Strings](https://cses.fi/problemset/task/1622)| [intro/intro15.cpp](intro/intro15.cpp) |
+|[Apple Division](https://cses.fi/problemset/task/1623)| [intro/intro16.cpp](intro/intro16.cpp) |
+|[Chessboard and Queens](https://cses.fi/problemset/task/1624) | |
+|[Digit Queries](https://cses.fi/problemset/task/2431) | |
+|[Grid Paths](https://cses.fi/problemset/task/1625) | |
 
