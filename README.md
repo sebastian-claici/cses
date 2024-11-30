@@ -23,6 +23,6 @@ Solutions to the [CSES problem set](https://cses.fi/problemset/list/). Most of t
 |[Creating Strings](https://cses.fi/problemset/task/1622)| [intro/intro15.cpp](intro/intro15.cpp) |
 |[Apple Division](https://cses.fi/problemset/task/1623)| [intro/intro16.cpp](intro/intro16.cpp) |
 |[Chessboard and Queens](https://cses.fi/problemset/task/1624) | [intro/intro17.cpp](intro/intro17.cpp)|
-|[Digit Queries](https://cses.fi/problemset/task/2431) | |
+|[Digit Queries](https://cses.fi/problemset/task/2431) | [intro/intro18.cpp](intro/intro18.cpp)|
 |[Grid Paths](https://cses.fi/problemset/task/1625) | |
 
