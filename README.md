@@ -22,7 +22,7 @@ Solutions to the [CSES problem set](https://cses.fi/problemset/list/). Most of t
 |[Tower of Hanoi](https://cses.fi/problemset/task/2165)| [intro/intro14.cpp](intro/intro14.cpp) |
 |[Creating Strings](https://cses.fi/problemset/task/1622)| [intro/intro15.cpp](intro/intro15.cpp) |
 |[Apple Division](https://cses.fi/problemset/task/1623)| [intro/intro16.cpp](intro/intro16.cpp) |
-|[Chessboard and Queens](https://cses.fi/problemset/task/1624) | |
+|[Chessboard and Queens](https://cses.fi/problemset/task/1624) | [intro/intro17.cpp](intro/intro17.cpp)|
 |[Digit Queries](https://cses.fi/problemset/task/2431) | |
 |[Grid Paths](https://cses.fi/problemset/task/1625) | |
 
