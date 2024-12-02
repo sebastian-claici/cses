@@ -33,3 +33,10 @@ Solutions to the [CSES problem set](https://cses.fi/problemset/list/). Most of t
 |[Distinct Numbers](https://cses.fi/problemset/task/1621)| [sorting/sorting1.cpp](sorting/sorting1.cpp) |
 |[Apartments](https://cses.fi/problemset/task/1084)| [sorting/sorting2.cpp](sorting/sorting2.cpp) |
 |[Ferris Wheel](https://cses.fi/problemset/task/1090)| [sorting/sorting3.cpp](sorting/sorting3.cpp) |
+|[Concert Tickets](https://cses.fi/problemset/task/1091) | [sorting/sorting4.cpp](sorting/sorting4.cpp) |
+|[Restaurant Customers](https://cses.fi/problemset/task/1619) | [sorting/sorting5.cpp] |
+|[Movie Festival](https://cses.fi/problemset/task/1629) | [sorting/sorting6.cpp] |
+|[Sum of Two Values](https://cses.fi/problemset/task/1640) | [sorting/sorting7.cpp] |
+|[Maximum Subarray Sum](https://cses.fi/problemset/task/1643) | [sorting/sorting8.cpp] |
+|[Stick Lengths](https://cses.fi/problemset/task/1074) | [sorting/sorting9.cpp] |
+|[Missing Coin Sum](https://cses.fi/problemset/task/2183) | [sorting/sorting10.cpp] |
