@@ -40,3 +40,12 @@ Solutions to the [CSES problem set](https://cses.fi/problemset/list/). Most of t
 |[Maximum Subarray Sum](https://cses.fi/problemset/task/1643) | [sorting/sorting8.cpp] |
 |[Stick Lengths](https://cses.fi/problemset/task/1074) | [sorting/sorting9.cpp] |
 |[Missing Coin Sum](https://cses.fi/problemset/task/2183) | [sorting/sorting10.cpp] |
+
+## Dynamic Programming
+
+| Problem | Solution |
+|---------|----------|
+|[Dice Combinations](https://cses.fi/problemset/task/1633)| [dp/dp1.cpp] |
+|[Minimizing Coins](https://cses.fi/problemset/task/1634)| [dp/dp2.cpp] |
+|[Coin Combinations I](https://cses.fi/problemset/task/1635)| [dp/dp3.cpp] |
+|[Coin Combinations II](https://cses.fi/problemset/task/1636)| [dp/dp4.cpp] |
