@@ -49,3 +49,6 @@ Solutions to the [CSES problem set](https://cses.fi/problemset/list/). Most of t
 |[Minimizing Coins](https://cses.fi/problemset/task/1634)| [dp/dp2.cpp] |
 |[Coin Combinations I](https://cses.fi/problemset/task/1635)| [dp/dp3.cpp] |
 |[Coin Combinations II](https://cses.fi/problemset/task/1636)| [dp/dp4.cpp] |
+|[Removing Digits](https://cses.fi/problemset/task/1637)| [dp/dp5.cpp] |
+|[Grid Paths](https://cses.fi/problemset/task/1638)| [dp/dp6.cpp] |
+|[Book Shop](https://cses.fi/problemset/task/1158)| [dp/dp7.cpp] |
