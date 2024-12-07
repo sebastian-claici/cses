@@ -33,41 +33,41 @@ Solutions to the [CSES problem set](https://cses.fi/problemset/list/). Most of t
 |[Apartments](https://cses.fi/problemset/task/1084)| [sorting/sorting2.cpp](sorting/sorting2.cpp) |
 |[Ferris Wheel](https://cses.fi/problemset/task/1090)| [sorting/sorting3.cpp](sorting/sorting3.cpp) |
 |[Concert Tickets](https://cses.fi/problemset/task/1091) | [sorting/sorting4.cpp](sorting/sorting4.cpp) |
-|[Restaurant Customers](https://cses.fi/problemset/task/1619) | [sorting/sorting5.cpp] |
-|[Movie Festival](https://cses.fi/problemset/task/1629) | [sorting/sorting6.cpp] |
-|[Sum of Two Values](https://cses.fi/problemset/task/1640) | [sorting/sorting7.cpp] |
-|[Maximum Subarray Sum](https://cses.fi/problemset/task/1643) | [sorting/sorting8.cpp] |
-|[Stick Lengths](https://cses.fi/problemset/task/1074) | [sorting/sorting9.cpp] |
-|[Missing Coin Sum](https://cses.fi/problemset/task/2183) | [sorting/sorting10.cpp] |
-|[Collecting Numbers](https://cses.fi/problemset/task/2216) | [sorting/sorting11.cpp] |
-|[Playlist](https://cses.fi/problemset/task/1141) | [sorting/sorting13.cpp] |
-|[Towers](https://cses.fi/problemset/task/1073) | [sorting/sorting14.cpp] |
-|[Traffic Lights](https://cses.fi/problemset/task/1163) | [sorting/sorting15.cpp] |
-|[Josephus Problem I](https://cses.fi/problemset/task/2162) | [sorting/sorting16.cpp] |
-|[Josephus Problem II](https://cses.fi/problemset/task/2163) | [sorting/sorting17.cpp] |
-|[Room Allocation](https://cses.fi/problemset/task/1164) | [sorting/sorting20.cpp] |
-|[Factory Machines](https://cses.fi/problemset/task/1620) | [sorting/sorting21.cpp] |
-|[Tasks and Deadlines](https://cses.fi/problemset/task/1630) | [sorting/sorting22.cpp] |
+|[Restaurant Customers](https://cses.fi/problemset/task/1619) | [sorting/sorting5.cpp](sorting/sorting5.cpp) |
+|[Movie Festival](https://cses.fi/problemset/task/1629) | [sorting/sorting6.cpp](sorting/sorting6.cpp) |
+|[Sum of Two Values](https://cses.fi/problemset/task/1640) | [sorting/sorting7.cpp](sorting/sorting7.cpp) |
+|[Maximum Subarray Sum](https://cses.fi/problemset/task/1643) | [sorting/sorting8.cpp](sorting/sorting8.cpp) |
+|[Stick Lengths](https://cses.fi/problemset/task/1074) | [sorting/sorting9.cpp](sorting/sorting9.cpp) |
+|[Missing Coin Sum](https://cses.fi/problemset/task/2183) | [sorting/sorting10.cpp](sorting/sorting10.cpp) |
+|[Collecting Numbers](https://cses.fi/problemset/task/2216) | [sorting/sorting11.cpp](sorting/sorting11.cpp) |
+|[Playlist](https://cses.fi/problemset/task/1141) | [sorting/sorting13.cpp](sorting/sorting13.cpp) |
+|[Towers](https://cses.fi/problemset/task/1073) | [sorting/sorting14.cpp](sorting/sorting14.cpp) |
+|[Traffic Lights](https://cses.fi/problemset/task/1163) | [sorting/sorting15.cpp](sorting/sorting15.cpp) |
+|[Josephus Problem I](https://cses.fi/problemset/task/2162) | [sorting/sorting16.cpp](sorting/sorting16.cpp) |
+|[Josephus Problem II](https://cses.fi/problemset/task/2163) | [sorting/sorting17.cpp](sorting/sorting17.cpp) |
+|[Room Allocation](https://cses.fi/problemset/task/1164) | [sorting/sorting20.cpp](sorting/sorting20.cpp) |
+|[Factory Machines](https://cses.fi/problemset/task/1620) | [sorting/sorting21.cpp](sorting/sorting21.cpp) |
+|[Tasks and Deadlines](https://cses.fi/problemset/task/1630) | [sorting/sorting22.cpp](sorting/sorting22.cpp) |
 
 ## Dynamic Programming
 
 | Problem | Solution |
 |---------|----------|
-|[Dice Combinations](https://cses.fi/problemset/task/1633)| [dp/dp1.cpp] |
-|[Minimizing Coins](https://cses.fi/problemset/task/1634)| [dp/dp2.cpp] |
-|[Coin Combinations I](https://cses.fi/problemset/task/1635)| [dp/dp3.cpp] |
-|[Coin Combinations II](https://cses.fi/problemset/task/1636)| [dp/dp4.cpp] |
-|[Removing Digits](https://cses.fi/problemset/task/1637)| [dp/dp5.cpp] |
-|[Grid Paths](https://cses.fi/problemset/task/1638)| [dp/dp6.cpp] |
-|[Book Shop](https://cses.fi/problemset/task/1158)| [dp/dp7.cpp] |
+|[Dice Combinations](https://cses.fi/problemset/task/1633)| [dp/dp1.cpp](dp/dp1.cpp) |
+|[Minimizing Coins](https://cses.fi/problemset/task/1634)| [dp/dp2.cpp](dp/dp2.cpp) |
+|[Coin Combinations I](https://cses.fi/problemset/task/1635)| [dp/dp3.cpp](dp/dp3.cpp) |
+|[Coin Combinations II](https://cses.fi/problemset/task/1636)| [dp/dp4.cpp](dp/dp4.cpp) |
+|[Removing Digits](https://cses.fi/problemset/task/1637)| [dp/dp5.cpp](dp/dp5.cpp) |
+|[Grid Paths](https://cses.fi/problemset/task/1638)| [dp/dp6.cpp](dp/dp6.cpp) |
+|[Book Shop](https://cses.fi/problemset/task/1158)| [dp/dp7.cpp](dp/dp7.cpp) |
 
 ## Graph Algorithms
 
 | Problem | Solution |
 |---------|----------|
-|[Counting Rooms](https://cses.fi/problemset/task/1192)| [graphs/graph1.cpp] |
-|[Labyrinth](https://cses.fi/problemset/task/1193)| [graphs/graph2.cpp] |
-|[Building Roads](https://cses.fi/problemset/task/1666)| [graphs/graph3.cpp] |
-|[Message Route](https://cses.fi/problemset/task/1667)| [graphs/graph4.cpp] |
-|[Building Teams](https://cses.fi/problemset/task/1668)| [graphs/graph5.cpp] |
+|[Counting Rooms](https://cses.fi/problemset/task/1192)| [graphs/graph1.cpp](graphs/graph1.cpp) |
+|[Labyrinth](https://cses.fi/problemset/task/1193)| [graphs/graph2.cpp](graphs/graph2.cpp) |
+|[Building Roads](https://cses.fi/problemset/task/1666)| [graphs/graph3.cpp](graphs/graph3.cpp) |
+|[Message Route](https://cses.fi/problemset/task/1667)| [graphs/graph4.cpp](graphs/graph4.cpp) |
+|[Building Teams](https://cses.fi/problemset/task/1668)| [graphs/graph5.cpp](graphs/graph5.cpp) |
 
