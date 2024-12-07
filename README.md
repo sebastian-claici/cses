@@ -24,7 +24,6 @@ Solutions to the [CSES problem set](https://cses.fi/problemset/list/). Most of t
 |[Apple Division](https://cses.fi/problemset/task/1623)| [intro/intro16.cpp](intro/intro16.cpp) |
 |[Chessboard and Queens](https://cses.fi/problemset/task/1624) | [intro/intro17.cpp](intro/intro17.cpp)|
 |[Digit Queries](https://cses.fi/problemset/task/2431) | [intro/intro18.cpp](intro/intro18.cpp)|
-|[Grid Paths](https://cses.fi/problemset/task/1625) | |
 
 ## Sorting
 
@@ -40,6 +39,15 @@ Solutions to the [CSES problem set](https://cses.fi/problemset/list/). Most of t
 |[Maximum Subarray Sum](https://cses.fi/problemset/task/1643) | [sorting/sorting8.cpp] |
 |[Stick Lengths](https://cses.fi/problemset/task/1074) | [sorting/sorting9.cpp] |
 |[Missing Coin Sum](https://cses.fi/problemset/task/2183) | [sorting/sorting10.cpp] |
+|[Collecting Numbers](https://cses.fi/problemset/task/2216) | [sorting/sorting11.cpp] |
+|[Playlist](https://cses.fi/problemset/task/1141) | [sorting/sorting13.cpp] |
+|[Towers](https://cses.fi/problemset/task/1073) | [sorting/sorting14.cpp] |
+|[Traffic Lights](https://cses.fi/problemset/task/1163) | [sorting/sorting15.cpp] |
+|[Josephus Problem I](https://cses.fi/problemset/task/2162) | [sorting/sorting16.cpp] |
+|[Josephus Problem II](https://cses.fi/problemset/task/2163) | [sorting/sorting17.cpp] |
+|[Room Allocation](https://cses.fi/problemset/task/1164) | [sorting/sorting20.cpp] |
+|[Factory Machines](https://cses.fi/problemset/task/1620) | [sorting/sorting21.cpp] |
+|[Tasks and Deadlines](https://cses.fi/problemset/task/1630) | [sorting/sorting22.cpp] |
 
 ## Dynamic Programming
 
@@ -52,3 +60,14 @@ Solutions to the [CSES problem set](https://cses.fi/problemset/list/). Most of t
 |[Removing Digits](https://cses.fi/problemset/task/1637)| [dp/dp5.cpp] |
 |[Grid Paths](https://cses.fi/problemset/task/1638)| [dp/dp6.cpp] |
 |[Book Shop](https://cses.fi/problemset/task/1158)| [dp/dp7.cpp] |
+
+## Graph Algorithms
+
+| Problem | Solution |
+|---------|----------|
+|[Counting Rooms](https://cses.fi/problemset/task/1192)| [graphs/graph1.cpp] |
+|[Labyrinth](https://cses.fi/problemset/task/1193)| [graphs/graph2.cpp] |
+|[Building Roads](https://cses.fi/problemset/task/1666)| [graphs/graph3.cpp] |
+|[Message Route](https://cses.fi/problemset/task/1667)| [graphs/graph4.cpp] |
+|[Building Teams](https://cses.fi/problemset/task/1668)| [graphs/graph5.cpp] |
+
